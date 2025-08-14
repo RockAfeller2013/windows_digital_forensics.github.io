@@ -1,6 +1,6 @@
 ---
 title: Section 3 - Part 1
-parent: Section 2
+parent: Section 3
 nav_order: 1
 ---
 
