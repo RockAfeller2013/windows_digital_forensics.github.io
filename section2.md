@@ -1,6 +1,6 @@
 ---
-title: Section 2 - Overview
-nav_order: 3
+title: Section 2
+nav_order: 2
 has_children: true
 ---
 
