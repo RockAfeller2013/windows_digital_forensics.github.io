@@ -1,5 +1,5 @@
 ---
-title: Section 1 - Overview
+title: Section 1
 nav_order: 2
 has_children: true
 ---
