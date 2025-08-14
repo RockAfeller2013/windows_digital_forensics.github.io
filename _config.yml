@@ -4,5 +4,11 @@ theme: just-the-docs
 
 url: https://rockafeller2013.github.io/windows_digital_forensics.github.io/index.html?nocache=1
 
+nav_order:
+  - Home
+  - Section 1
+  - Section 2
+  - Section 3
+  
 aux_links:
   Template Repository: https://github.com/RockAfeller2013/windows_digital_forensics.github.io
